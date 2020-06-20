@@ -1,0 +1,6 @@
+framework module Pods_JSProject {
+  umbrella header "Pods-JSProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
